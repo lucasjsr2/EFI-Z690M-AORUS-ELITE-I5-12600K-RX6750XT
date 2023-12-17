@@ -1,5 +1,8 @@
 # EFI - Intel Desktop 12600K - Opencore 0.9.7 - GIGABYTE Z690M AORUS ELITE DDR4 - macOS Sonoma 14.2 - AMD RX 6750XT
 
+
+![about](https://raw.githubusercontent.com/lucasjsr2/EFI-Z690M-AORUS-ELITE-I5-12600K-RX6750XT/main/.github/about.png)
+
 Note|Description
 :----|:----
 macOS|Sonoma 14.2
@@ -36,6 +39,7 @@ Please use [*genSMBIOS*](https://github.com/corpnewt/GenSMBIOS/archive/refs/head
 Please use [*ProperTree*](https://github.com/corpnewt/ProperTree/archive/refs/heads/master.zip) for configure/edit your config.plist.
 
 # Compatible SMBIOS
+
 
 SMBIOS|Description
 :----|:----
