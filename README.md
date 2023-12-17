@@ -1,7 +1,7 @@
 # EFI - Intel Desktop 12600K - Opencore 0.9.7 - GIGABYTE Z690M AORUS ELITE DDR4 - macOS Sonoma 14.2 - AMD RX 6750XT
 
 
-![about](./github/about.png)
+![about](https://raw.githubusercontent.com/lucasjsr2/EFI-Z690M-AORUS-ELITE-I5-12600K-RX6750XT/main/.github/about.png)
 
 Note|Description
 :----|:----
