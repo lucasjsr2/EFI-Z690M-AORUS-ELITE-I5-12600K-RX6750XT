@@ -1,11 +1,11 @@
-# EFI - Intel Desktop 12600K - Opencore 0.9.7 - GIGABYTE Z690M AORUS ELITE DDR4 - macOS Sonoma 14.2 - AMD RX 6750XT
+# EFI - Intel Desktop 12600K - Opencore 0.9.9 - GIGABYTE Z690M AORUS ELITE DDR4 - macOS Sonoma 14.4.1 - AMD RX 6750XT
 
 
 ![about](https://raw.githubusercontent.com/lucasjsr2/EFI-Z690M-AORUS-ELITE-I5-12600K-RX6750XT/main/.github/about.png)
 
 Note|Description
 :----|:----
-macOS|Sonoma 14.2
+macOS|Sonoma 14.4.1
 Motherboard|Gigabyte Z690M AORUS ELITE DDR4
 GPU|MSI AMD RX 6750XT MECH 2X OC 12Gb
 Processor|Intel® Core™ i5-12600K
@@ -15,7 +15,7 @@ Wifi/Bluetooth | WIFI 6E FENVI FV-AXE3000RGB - AX210 - Bluetooth 5.2
 Ethernet | Intel® I225-V 2.5GbE LAN
 SMBIOS | iMacPro1,1
 
-- Opencore version: 0.9.7
+- Opencore version: 0.9.9
 
 # Basic Steps
 
