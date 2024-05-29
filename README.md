@@ -13,9 +13,10 @@ NVME SSD|XPG S41 TUF 512Gb --- WD Black SN770 M.2 PCIe Gen4x4
 RAM|4x XPG Gammix D45 8Gb 3600Mhz DDR4 - @3800Mhz
 Wifi/Bluetooth | WIFI 6E FENVI FV-AXE3000RGB - AX210 - Bluetooth 5.2
 Ethernet | Intel® I225-V 2.5GbE LAN
+Power supply | XPG Core Reactor 850W
+Air Cooler | Thermalright Phantom Spirit SE
 SMBIOS | iMacPro1,1
-
-- Opencore version: 1.0.0
+Opencore | 1.0.0
 
 # Basic Steps
 
